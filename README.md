@@ -1,5 +1,5 @@
 
-# ThreeExamples: Autonomous EdgeCloud Nexus for Streaming Data Processing
+#  EdgeCloud Nexus for Streaming Data Processing
 
 > "Unlock the full potential of your data, anywhere, anytime, with the power of autonomous edge computing."
 
